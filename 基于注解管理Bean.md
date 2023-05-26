@@ -114,7 +114,7 @@ Spring 提供了以下多个注解，这些注解可以直接标注在 Java 类�
   
 #### 全注解开发
 
-全注解开发就是不再使用spring配置文件了，写一个配置类来代替配置文件。
+全注解开发就是不再使用spring配置文件了，写一个配置类来代替配置文件。(写一个类来代替xml配置文件)
 
 ```java
 package com.atguigu.spring6.config;
